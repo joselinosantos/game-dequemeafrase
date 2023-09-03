@@ -1,0 +1,271 @@
+[
+    {
+        "frase": "A vida é como uma caixa de chocolates, você nunca sabe o que vai encontrar.",
+        "resposta": "Forrest Gump"
+    },
+    {
+        "frase": "Se você quer algo bem feito, faça você mesmo.",
+        "resposta": "Napoleão Bonaparte"
+    },
+    {
+        "frase": "Uma mente precisa de livros da mesma forma que uma espada precisa de uma pedra de amolar.",
+        "resposta": "Tyrion Lannister"
+    },
+    {
+        "frase": "A vida é como uma bicicleta, para manter o equilíbrio, você deve continuar em movimento.",
+        "resposta": "Albert Einstein"
+    },
+    {
+        "frase": "A simplicidade é a sofisticação final.",
+        "resposta": "Leonardo da Vinci"
+    },
+    {
+        "frase": "Nossa maior fraqueza está em desistir. O caminho mais certo de vencer é tentar mais uma vez.",
+        "resposta": "Thomas Edison"
+    },
+    {
+        "frase": "Você deve ser a mudança que deseja ver no mundo.",
+        "resposta": "Mahatma Gandhi"
+    },
+    {
+        "frase": "A imaginação é mais importante que o conhecimento. O conhecimento é limitado. A imaginação envolve o mundo.",
+        "resposta": "Albert Einstein"
+    },
+    {
+        "frase": "O sucesso é a chave para a felicidade. Se você ama o que faz, será bem-sucedido.",
+        "resposta": "Albert Schweitzer"
+    },
+    {
+        "frase": "A única maneira de fazer um grande trabalho é amar o que você faz.",
+        "resposta": "Steve Jobs"
+    },
+    {
+        "frase": "Acredite que você pode e você está no meio do caminho.",
+        "resposta": "Theodore Roosevelt"
+    },
+    {
+        "frase": "Acredite que você pode e você está no meio do caminho.",
+        "resposta": "Theodore Roosevelt"
+    },
+    {
+        "frase": "O verdadeiro segredo da felicidade está em ter um genuíno interesse por todos os detalhes da vida cotidiana.",
+        "resposta": "William Morris"
+    },
+    {
+        "frase": "A persistência é o caminho do êxito.",
+        "resposta": "Charles Chaplin"
+    },
+    {
+        "frase": "Não importa o que você decidiu. O que importa é que isso faça você feliz.",
+        "resposta": "Sigmund Freud"
+    },
+    {
+        "frase": "A única maneira de fazer um ótimo trabalho é amar o que você faz.",
+        "resposta": "Steve Jobs"
+    },
+    {
+        "frase": "A vida é o que acontece enquanto você está ocupado fazendo outros planos.",
+        "resposta": "John Lennon"
+    },
+    {
+        "frase": "A verdadeira medida de um homem não se vê na forma como se comporta em momentos de conforto e conveniência, mas em como se mantém em tempos de controvérsia e desafio.",
+        "resposta": "Martin Luther King Jr."
+    },
+    {
+        "frase": "A imaginação é a única arma na guerra contra a realidade.",
+        "resposta": "Lewis Carroll"
+    },
+    {
+        "frase": "A felicidade não depende do que você tem ou de quem você é. Ela só depende do que você pensa.",
+        "resposta": "Dale Carnegie"
+    },
+    {
+        "frase": "A verdadeira grandeza está em sermos incompreendidos.",
+        "resposta": "Ralph Waldo Emerson"
+    },
+    {
+        "frase": "A verdadeira sabedoria está em reconhecer a própria ignorância.",
+        "resposta": "Sócrates"
+    },
+    {
+        "frase": "A sorte favorece a mente preparada.",
+        "resposta": "Louis Pasteur"
+    },
+    {
+        "frase": "A vida é um sonho, e os sonhos, sonhos são.",
+        "resposta": "Pedro Calderón de la Barca"
+    },
+    {
+        "frase": "A sabedoria começa na reflexão.",
+        "resposta": "Sócrates"
+    },
+    {
+        "frase": "A educação é a arma mais poderosa que você pode usar para mudar o mundo.",
+        "resposta": "Nelson Mandela"
+    },
+    {
+        "frase": "A verdadeira viagem de descobrimento consiste não em procurar novas paisagens, mas em ter novos olhos.",
+        "resposta": "Marcel Proust"
+    },
+    {
+        "frase": "A imaginação é tudo. É a prévia das atrações da vida.",
+        "resposta": "Albert Einstein"
+    },
+    {
+        "frase": "A gentileza é o idioma que os surdos podem ouvir e os cegos podem ver.",
+        "resposta": "Mark Twain"
+    },
+    {
+        "frase": "A simplicidade é a máxima sofisticação.",
+        "resposta": "Leonardo da Vinci"
+    },
+    {
+        "frase": "A melhor maneira de prever o futuro é criá-lo.",
+        "resposta": "Peter Drucker"
+    },
+    {
+        "frase": "A ação é a chave fundamental para todo sucesso.",
+        "resposta": "Pablo Picasso"
+    },
+    {
+        "frase": "Que a Força esteja com você.",
+        "resposta": "Star Wars"
+    },
+    {
+        "frase": "Eu sou o rei do mundo!",
+        "resposta": "Titanic"
+    },
+    {
+        "frase": "May the odds be ever in your favor.",
+        "resposta": "Jogos Vorazes"
+    },
+    {
+        "frase": "Hasta la vista, baby.",
+        "resposta": "O Exterminador do Futuro"
+    },
+    {
+        "frase": "Eu vejo pessoas mortas.",
+        "resposta": "O Sexto Sentido"
+    },
+    {
+        "frase": "Eu tenho um pressentimento ruim sobre isso.",
+        "resposta": "Star Wars"
+    },
+    {
+        "frase": "Elementar, meu caro Watson.",
+        "resposta": "Sherlock Holmes (várias adaptações)"
+    },
+    {
+        "frase": "Eu não estou em perigo, eu sou o perigo.",
+        "resposta": "Breaking Bad"
+    },
+    {
+        "frase": "Vida longa e próspera.",
+        "resposta": "Star Trek"
+    },
+    {
+        "frase": "Pikachu, eu escolho você!",
+        "resposta": "Pokémon"
+    },
+    {
+        "frase": "Exterminate!",
+        "resposta": "Doctor Who"
+    },
+    {
+        "frase": "Ninguém tem paciência comigo!",
+        "resposta": "Chaves"
+    },
+    {
+        "frase": "Em todos esses anos nessa indústria vital!",
+        "resposta": "Pica pau"
+    },
+    {
+        "frase": "Cale-se, cale-se, você me deixa louco!",
+        "resposta": "Kiko"
+    },
+    {
+        "frase": "Eu vejo você",
+        "resposta": "Avatar"
+    },
+    {
+        "frase": "Eles podem tirar nossas vidas, mas nunca tirarão nossa liberdade!",
+        "resposta": "Coração Valente - William Wallace"
+    },
+    {
+        "frase": "O que acontece em Vegas, fica em Vegas.",
+        "resposta": "Se Beber, Não Case! - Phil Wenneck"
+    },
+    {
+        "frase": "Aqui está Johnny!",
+        "resposta": "O Iluminado - Jack Torrance"
+    },
+    {
+        "frase": "Toto, eu tenho a sensação de que não estamos mais em Kansas.",
+        "resposta": "O Mágico de Oz - Dorothy Gale"
+    },
+    {
+        "frase": "Vai ser legen... espere por isso... dário!",
+        "resposta": "How I Met Your Mother - Barney Stinson"
+    },
+    {
+        "frase": "Deus, Pátria, Família e Liberdade",
+        "resposta": "Jair Bolsonaro"
+    },
+    {
+        "frase": "Quem ganhar ou perder, ninguém vai ganhar ou perder",
+        "resposta": "Dilma Roussef"
+    },
+    {
+        "frase": "America first",
+        "resposta": "Donald Trump"
+    },
+    {
+        "frase": "Nunca na história desse país...",
+        "resposta": "Lula"
+    },
+    {
+        "frase": "Amai-vos uns aos outros, como eu vos amei.",
+        "resposta": "Jesus Cristo"
+    },
+    {
+        "frase": "Eu sou o caminho, a verdade e a vida. Ninguém vem ao Pai senão por mim.",
+        "resposta": "Jesus Cristo"
+    },
+    {
+        "frase": "Com efeito, Deus amou tanto o mundo que lhe deu seu Filho único.",
+        "resposta": "Jesus Cristo"
+    },
+    {
+        "frase": "O Senhor é meu pastor; nada me faltará.",
+        "resposta": "Davi"
+    },
+    {
+        "frase": "Amai o vosso próximo como a vós mesmos.",
+        "resposta": "Jesus Cristo"
+    },
+    {
+        "frase": "Eu e minha casa serviremos ao Senhor.",
+        "resposta": "Josué"
+    },
+    {
+        "frase": "Bem-aventurados os mansos, porque eles herdarão a terra.",
+        "resposta": "Jesus Cristo"
+    },
+    {
+        "frase": "Amarás o Senhor, teu Deus, de todo o teu coração, de toda a tua alma e de todo o teu entendimento.",
+        "resposta": "Jesus Cristo"
+    },
+    {
+        "frase": "O amor é paciente, o amor é bondoso. Não inveja, não se vangloria, não se orgulha.",
+        "resposta": "Apóstolo Paulo"
+    },
+    {
+        "frase": "A fé é a certeza daquilo que esperamos e a prova das coisas que não vemos.",
+        "resposta": "Apóstolo Paulo"
+    },
+    {
+        "frase": "Tudo posso naquele que me fortalece.",
+        "resposta": "Apóstolo Paulo"
+    }
+]
+
